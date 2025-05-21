@@ -9,7 +9,7 @@ A stylish and responsive **login form** designed with a unique **liquid drop sha
 - Pure HTML & CSS (no frameworks or libraries)
 - Glassmorphism + drop-inspired fluid design
 - Hover animation with soft transitions
-- Responsive and modern UI
+- Modern UI
 - Future-ready for JS integration
 
 ---
@@ -27,17 +27,15 @@ A stylish and responsive **login form** designed with a unique **liquid drop sha
 ```bash
 git clone https://github.com/your-username/drop-style-login-form.git
 
-2. Open index.html in your browser to see it live. `````
+2. Open index.html in your browser to see it live.
+```
+---
 
+## 📌 Future Plans
+JavaScript-based form validation   
+Password visibility toggle  
+Backend integration with Firebase / Node.js  
+Dark mode toggle  
 
-### 📌 Future Plans
-JavaScript-based form validation
-
-Password visibility toggle
-
-Backend integration with Firebase / Node.js
-
-Dark mode toggle
-
-📬 Connect with Me
-Made with ❤️ by Af
+## 📬 Connect with Me
+Made with ❤️ by Akhil Soni
